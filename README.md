@@ -41,7 +41,7 @@ O Projeto consiste em um sistema web para criação e gerenciamento de atas digi
 
 ### Requisitos funcionais
 
-Para acessar a documentação de requisitos clique em: [Documentação geral](https://github.com/MatheusCampos-450/typext-frontend/blob/main/docs/Documenta%C3%A7%C3%A3o%20geral%20-%20Casos%20de%20uso%2C%20requisitos%20e%20diagrama%20de%20modelo.pdf)
+Para acessar a documentação de requisitos clique em: [Documentação geral](https://github.com/Typext/Entregas-e-documentos/blob/main/docs/Documenta%C3%A7%C3%A3o%20geral%20-%20Casos%20de%20uso%2C%20requisitos%20e%20diagrama%20de%20contexto.pdf)
 
 ### Requisitos não funcionais:
 
@@ -55,7 +55,7 @@ As principais tecnologias que utilizamos para o desenvolvumento do projeto foram
 
 ### Entregas
 
-[Sprint 1](https://github.com/MatheusCampos-450/typext-frontend/tree/main/Sprint%201) -  08/03/2021 a 28/03/2021
+[Sprint 1](https://github.com/Typext/Entregas-e-documentos/tree/main/Sprint%201) -  08/03/2021 a 28/03/2021
 
 Sprint 2 -  29/03/2021 a 18/04/2020
 
