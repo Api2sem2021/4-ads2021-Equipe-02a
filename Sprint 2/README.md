@@ -1,6 +1,6 @@
 # Sprint 2 - Descrição da entrega
 
-Aqui iremos descrever o que foi entregue na sprint 2, o motivo da priorização e como executar o projeto para uso.
+Aqui iremos descrever o que foi entregue na sprint 2, o motivo da priorização e como acessar cada parte do projeto.
 
 Como foi acordado previamente com o cliente do projeto, temos aqui o backlog do produto, e nele pode ser visto o que será entregue na sprint 2.
 
@@ -21,3 +21,9 @@ Na primeira sprint focamos em entregar o ponto de maior valor para este sistema.
 Para atender à esta demanda foi desenvolvida a página de criação e exportação de atas, que pode ser acessada [clicando aqui.](https://typext.vercel.app/)
 
 Como as funcionalidades restantes da ferramenta precisariam receber restrições de acesso e, além disso, registro de logs identificando os autores de cada ação, se mostrou necessário possuir um sistema de gerenciamento e criação de usuários, e daí surge o motivo da entrega da sprint 2.
+
+## Como acessar o produto
+
+O repositório com o frontend da ferramenta pode ser acessado [clicando aqui.](https://github.com/Typext/typext-frontend)
+
+Já o desenvolvimento da API do sistema, pode ser acessado [aqui.](https://github.com/Typext/typext-webservice)
