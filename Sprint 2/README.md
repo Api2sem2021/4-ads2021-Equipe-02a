@@ -6,8 +6,6 @@ Como foi acordado previamente com o cliente do projeto, temos aqui o backlog do 
 
 ![typext_sprints](https://user-images.githubusercontent.com/56441371/112768962-ffb86980-8ff4-11eb-8490-3e0e63db3c0e.png)
 
-Com isso, temos
-
 ## Incremento da sprint 2 - valores entregues
 
 - Cadastro de usuários;
