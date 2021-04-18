@@ -37,7 +37,7 @@ Desenvolver um sistema de criação e gerenciamento de atas de reuniões
 
 ### O Projeto
 
-O Projeto consiste em um sistema web para criação e gerenciamento de atas digitais. A plataforma possibilita a avaliação dos documentos para todos os participantes, sem a precisar estar cadastrado na ferramenta. O Typext conta também com um sistema de assinatura digital para maior controle e segurança.
+O Projeto consiste em um sistema web para criação e gerenciamento de atas digitais. A plataforma possibilita a avaliação dos documentos para todos os participantes, sem precisar estar cadastrado na ferramenta. O Typext conta também com um sistema de assinatura digital para maior controle e segurança.
 
 ### Requisitos funcionais
 
@@ -57,7 +57,7 @@ As principais tecnologias que utilizamos para o desenvolvumento do projeto foram
 
 [Sprint 1](https://github.com/Typext/Entregas-e-documentos/tree/main/Sprint%201) -  08/03/2021 a 28/03/2021
 
-Sprint 2 -  29/03/2021 a 18/04/2020
+[Sprint 2](https://github.com/Typext/Entregas-e-documentos/tree/main/Sprint%202) -  29/03/2021 a 18/04/2020
 
 Sprint 3 - 02/11/2020 a 08/11/2020
 
@@ -65,19 +65,29 @@ Sprint 4 - 23/11/2020 a 29/11/2020
 
 ### Requisitos necessários para o funcionamento do software
 
-- Para executar o protótipo entregue nessa primeira sprint, será necessário somente o Node para rodar o protótipo funcional
+Primeiramente será necessário clonar os repositório do front-end e do back-end nos links abaixo:
+
+[Front-ende](https://github.com/Typext/typext-frontend)
+
+[Back-end](https://github.com/Typext/typext-webservice)
+
+Em ambos os repositórios tem as instruções de como rodar o porjeto
+
+- Abaixo segue as orientações de como instalar o node para linux ou windows
 
 ### Para instalar o node no linux
 
 Rode os comandos no terminal
 
 **Ubuntu**
+
 ```
 curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
 **Debian, as root**
+
 ```
 curl -fsSL https://deb.nodesource.com/setup_14.x | bash -
 apt-get install -y nodejs
