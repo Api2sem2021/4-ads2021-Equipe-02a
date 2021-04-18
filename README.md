@@ -37,7 +37,7 @@ Desenvolver um sistema de criação e gerenciamento de atas de reuniões
 
 ### O Projeto
 
-O Projeto consiste em um sistema web para criação e gerenciamento de atas digitais. A plataforma possibilita a avaliação dos documentos para todos os participantes, sem precisar estar cadastrado na ferramenta. O Typext conta também com um sistema de assinatura digital para maior controle e segurança.
+O Projeto consiste em um sistema web para criação e gerenciamento de atas digitais. A plataforma possibilita a avaliação dos documentos para todos os participantes, sem a precisar estar cadastrado na ferramenta. O Typext conta também com um sistema de assinatura digital para maior controle e segurança.
 
 ### Requisitos funcionais
 
@@ -62,39 +62,3 @@ As principais tecnologias que utilizamos para o desenvolvumento do projeto foram
 Sprint 3 - 02/11/2020 a 08/11/2020
 
 Sprint 4 - 23/11/2020 a 29/11/2020
-
-### Requisitos necessários para o funcionamento do software
-
-Primeiramente será necessário clonar os repositório do front-end e do back-end nos links abaixo:
-
-[Front-end](https://github.com/Typext/typext-frontend)
-
-[Back-end](https://github.com/Typext/typext-webservice)
-
-Em ambos os repositórios tem as instruções de como rodar o projeto
-
-- Abaixo segue as orientações de como instalar o node para linux ou windows
-
-### Para instalar o node no linux
-
-Rode os comandos no terminal
-
-**Ubuntu**
-
-```
-curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-sudo apt-get install -y nodejs
-```
-
-**Debian, as root**
-
-```
-curl -fsSL https://deb.nodesource.com/setup_14.x | bash -
-apt-get install -y nodejs
-```
-
-### Para instalar o node no windows
-
-Entre no site do [node](https://nodejs.org/en/) e baixe a versão LTS
-
-![image](https://user-images.githubusercontent.com/56441371/112771142-d7366c80-9000-11eb-93e4-5a7bcbcb232f.png)
