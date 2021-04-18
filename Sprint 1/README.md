@@ -2,7 +2,7 @@
 
 A primeira sprint contemplará os seguintes incrementos previamente propostos:
 
-- 1º - Protótipo funcional da tela de criação de atas, seguindo modelo proposto pelo cliente;
+- 1º - Front-end da tela de criação de atas, seguindo modelo proposto pelo cliente;
 - 2º - Protótipo visual de todo o produto, contendo todas as interfaces gráficas prontas;
 - 3º - Documentação dos valores entregues e dos casos de uso detalhados (entrega padrão, inclusa em todas as sprints).
 
