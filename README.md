@@ -67,11 +67,11 @@ Sprint 4 - 23/11/2020 a 29/11/2020
 
 Primeiramente será necessário clonar os repositório do front-end e do back-end nos links abaixo:
 
-[Front-ende](https://github.com/Typext/typext-frontend)
+[Front-end](https://github.com/Typext/typext-frontend)
 
 [Back-end](https://github.com/Typext/typext-webservice)
 
-Em ambos os repositórios tem as instruções de como rodar o porjeto
+Em ambos os repositórios tem as instruções de como rodar o projeto
 
 - Abaixo segue as orientações de como instalar o node para linux ou windows
 
