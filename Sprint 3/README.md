@@ -18,8 +18,11 @@ Como foi acordado previamente com o cliente do projeto, temos aqui o backlog do 
 ## Motivo da priorização dos itens entregues
 
 Na primeira sprint focamos em entregar o ponto de maior valor neste sistema. Julgamos que este incremento inicial deveria possibilitar a criação e exportação de atas, que é a função mais básica da ferramenta.
+
 Já na sprint subsequente, incluímos todo o gerenciamento e criação de usuários, definindo níveis de acesso à ferramenta.
+
 Por fim, com estas bases estabelecidas, agregamos ao Typext suas principais funcionalidades, cobrindo com todo o ciclo de criação de ata (já tendo persistência em base de dados), até a criação de revisão, permitindo alterações, e assinatura de todos os participantes envolvidos.
+
 Além disso, diversos serviços já registram logs de atividade em nossa ferramenta *
 
 OBS: a interface de exibição dos logs será entregue na próxima sprint
