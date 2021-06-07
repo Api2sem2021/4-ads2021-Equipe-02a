@@ -61,4 +61,4 @@ As principais tecnologias que utilizamos para o desenvolvumento do projeto foram
 
 [Sprint 3](https://github.com/Typext/Entregas-e-documentos/tree/main/Sprint%203) -  19/04/2021 a 16/05/2021
 
-Sprint 4 - 17/05/2020 a 05/06/2021
+[Sprint 4](https://github.com/Typext/Entregas-e-documentos/tree/main/Sprint%204) - 17/05/2020 a 05/06/2021
