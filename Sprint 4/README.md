@@ -2,9 +2,7 @@
 
 Aqui iremos descrever o que foi entregue na sprint 4, o motivo da priorização e como acessar cada parte do projeto.
 
-Como foi acordado previamente com o cliente do projeto, temos aqui o backlog do produto, e nele pode ser visto o que será entregue, de forma resumida, na sprint atual.
-
-![typext_sprints](https://user-images.githubusercontent.com/56441371/112768962-ffb86980-8ff4-11eb-8490-3e0e63db3c0e.png)
+Como foi acordado previamente com o cliente do projeto, temos aqui o backlog da sprint:
 
 ## Incremento da sprint 4 - partes do produto entregues
 
